@@ -2,6 +2,11 @@
 Firebase for Android basic singup
 
 
+![firebase_signup](https://cloud.githubusercontent.com/assets/11635523/20765373/a50e7d9c-b6f7-11e6-8473-32820c06cb2a.gif)
+
+
+![auth 2 registered user](https://cloud.githubusercontent.com/assets/11635523/20765364/9e6420e6-b6f7-11e6-9ab2-133bb313a6ea.JPG)
+
 Basic useful feature list:
 
  * Allow user to sign up to the application
